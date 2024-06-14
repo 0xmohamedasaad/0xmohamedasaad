@@ -31,47 +31,24 @@
 
 🤝🏻 Contact Me
 
-<!-- <style >
-    *{
-        box-sizing: border-box;
-    }
-    img{
-        height: 50px;
-        border-radius: 10px;
-    }
-    .x, .fiverr, .behance {
-        padding: 10px;
-    }
-    .fiverr{
-        background-color: #1dbf73;
-    }
-    .x, .upwork{
-        background-color: #000000;
-    }
-    .behance{
-        background-color: #ffffff;
-    }
-</style> -->
-
 <a href='mailto:0xmohamedasaad@gmail.com?body=Hi Mohamed,%0AAre You Ready to Make An Impact? '>
     <img src="./assets/gmail.png" alt="Gmail"  width='50'/>
-</a>
-
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/0xmohamedasaad/">
     <img src="./assets/linkedin.png" alt="LinkedIn" width='50'/>
-</a>
+</a>&nbsp;
 <a href="https://www.upwork.com/freelancers/~018c6f19014e315f81">
     <img src="./assets/upwork.png" alt="Upwork"  width='50'/>
-</a>
+</a>&nbsp;
 <a href="https://www.fiverr.com/mohamedasaad0x">
     <img src="./assets/fiverr.png" alt="Fiverr"  width='50'/>
-</a>
+</a>&nbsp;
 <a href="https://www.behance.net/0xmohamedasaad">
     <img src="./assets/behance.png" alt="Behance"   width='50'/>
-</a>
+</a>&nbsp;
 <a href="https://x.com/0xmohamedasaad">
     <img src="./assets/x.png" alt="X"   width='50'/>
-</a>
+</a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61560060842352">
     <img src="./assets/facebook.svg" alt="Facebook"  width='50' />
 </a>
