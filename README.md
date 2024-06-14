@@ -31,7 +31,7 @@
 
 🤝🏻 Contact Me
 
-<style>
+<style type="text/css">
     *{
         box-sizing: border-box;
     }
