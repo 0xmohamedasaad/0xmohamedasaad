@@ -31,13 +31,6 @@
 
 🤝🏻 Contact Me
 
-<style type="text/css">
-
-    .behance{
-        background-color: #ffffff;
-    }
-</style>
-
 <a href='mailto:0xmohamedasaad@gmail.com?subject=Hi Mohamed, Are You Ready to Make An Imapct?\n'></a>
 
 <img src="./assets/gmail.png" alt="Gmail" style="box-sizing: border-box; height: 50px; border-radius: 10px;" />&nbsp;
