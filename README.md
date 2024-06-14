@@ -32,22 +32,7 @@
 🤝🏻 Contact Me
 
 <style type="text/css">
-    *{
-        box-sizing: border-box;
-    }
-    img{
-        height: 50px;
-        border-radius: 10px;
-    }
-    .x, .fiverr, .behance {
-        padding: 10px;
-    }
-    .fiverr{
-        background-color: #1dbf73;
-    }
-    .x, .upwork{
-        background-color: #000000;
-    }
+
     .behance{
         background-color: #ffffff;
     }
@@ -55,12 +40,12 @@
 
 <a href='mailto:0xmohamedasaad@gmail.com?subject=Hi Mohamed, Are You Ready to Make An Imapct?\n'></a>
 
-<img src="./assets/gmail.png" alt="Gmail"  />&nbsp;
-<img src="./assets/linkedin.png" alt="LinkedIn"  />&nbsp;
-<img src="./assets/upwork.png" alt="Upwork" class='bg upwork'/>&nbsp;
-<img src="./assets/fiverr.png" alt="Fiverr" class='bg fiverr' />&nbsp;
-<img src="./assets/behance.png" alt="Behance" class="bg behance" />&nbsp;
-<img src="./assets/x.png" alt="X" class='bg x'/>&nbsp;
-<img src="./assets/facebook.svg" alt="Facebook"  />&nbsp;
-<img src="./assets/slack.png" alt="Slack"  />&nbsp;
-<img src="./assets/discord.svg" alt="Discord"  />&nbsp;
+<img src="./assets/gmail.png" alt="Gmail" style="box-sizing: border-box; height: 50px; border-radius: 10px;" />&nbsp;
+<img src="./assets/linkedin.png" alt="LinkedIn"  style="box-sizing: border-box; height: 50px; border-radius: 10px;"/>&nbsp;
+<img src="./assets/upwork.png" alt="Upwork" class='bg upwork' style="box-sizing: border-box; height: 50px; border-radius: 10px; background-color: #000000;"/>&nbsp;
+<img src="./assets/fiverr.png" alt="Fiverr" class='bg fiverr' style="box-sizing: border-box; height: 50px; border-radius: 10px; padding: 10px; background-color: #1dbf73;"/> &nbsp;
+<img src="./assets/behance.png" alt="Behance" class="bg behance" style="box-sizing: border-box; height: 50px; border-radius: 10px; padding: 10px; background-color: #ffffff;"/>&nbsp;
+<img src="./assets/x.png" alt="X" class='bg x' style="box-sizing: border-box; height: 50px; border-radius: 10px; padding: 10px; background-color: #000000;"/>&nbsp;
+<img src="./assets/facebook.svg" alt="Facebook"  style="box-sizing: border-box; height: 50px; border-radius: 10px;"/>&nbsp;
+<img src="./assets/slack.png" alt="Slack"  style="box-sizing: border-box; height: 50px; border-radius: 10px;"/>&nbsp;
+<img src="./assets/discord.svg" alt="Discord"  style="box-sizing: border-box; height: 50px; border-radius: 10px;"/>&nbsp;
