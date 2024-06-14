@@ -53,7 +53,7 @@
     }
 </style> -->
 
-<a href='mailto:0xmohamedasaad@gmail.com?subject=Hi Mohamed, &body=Are You Ready to Make An Imapct? '>email</a>
+<a href='mailto:0xmohamedasaad@gmail.com?body=Hi Mohamed,\nAre You Ready to Make An Impact? '>email</a>
 
 <img src="./assets/gmail.png" alt="Gmail"  width='50'/>&nbsp;
 <img src="./assets/linkedin.png" alt="LinkedIn"   width='50'/>&nbsp;
