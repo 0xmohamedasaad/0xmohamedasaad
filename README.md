@@ -31,7 +31,7 @@
 
 🤝🏻 Contact Me
 
-- Email: <a href='mailto:0xmohamedasaad@gmail.com?body=Hi Mohamed,%0AAre You Ready to Make An Impact? '>0xmohamedasaad@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/0xmohamedasaad/">@0xmohamedasaad</a>
-- Upwork: <a href="https://www.upwork.com/freelancers/~018c6f19014e315f81">@0xmohamedasaad</a>
-- Fiverr: <a href="https://www.fiverr.com/mohamedasaad0x">@mohamedasaad0x</a>
+- Email:        <a href='mailto:0xmohamedasaad@gmail.com?body=Hi Mohamed,%0AAre You Ready to Make An Impact? '>0xmohamedasaad@gmail.com</a>
+- LinkedIn:     <a href="https://www.linkedin.com/in/0xmohamedasaad/">@0xmohamedasaad</a>
+- Upwork:       <a href="https://www.upwork.com/freelancers/~018c6f19014e315f81">@0xmohamedasaad</a>
+- Fiverr:       <a href="https://www.fiverr.com/mohamedasaad0x">@mohamedasaad0x</a>
