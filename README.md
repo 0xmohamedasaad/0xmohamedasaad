@@ -1,13 +1,16 @@
 # Hi, I'm Mohamed Asaad 👋🏻
 
-👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 🚀  A software engineer with strong knowledge of web and mobile development.
+
 - 🎓  Graduated from Faculty of Computer Science And Information Technology Tanta University.
+
 - 💡  Passionate about discovering new technologies and creating innovative software solutions and quick hacks.
+
 - 🛠️  Just can use the right tool for the job and not vice versa.
 
-🔮 Tech Stack & Skills
+## 🔮 Tech Stack & Skills
 
 - Scripting Languages       : JavaScript
 - Programming Languages     : TypeScript
@@ -29,7 +32,7 @@
 - Object Relational Mappers : DrizzleORM, Prisma, Mongoose, Redis
 - Databases                 : Relational, Document Oriented, Key-Value Database
 
-🤝🏻 Contact Me
+## 🤝🏻 Contact Me
 
 - Email:        <a href='mailto:0xmohamedasaad@gmail.com?body=Hi Mohamed,%0AAre You Ready to Make An Impact? '>0xmohamedasaad@gmail.com</a>
 - LinkedIn:     <a href="https://www.linkedin.com/in/0xmohamedasaad/">@0xmohamedasaad</a>
