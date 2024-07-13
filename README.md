@@ -5,7 +5,7 @@
 - 🚀  A software engineer with strong knowledge of web and mobile development.
 - 🎓  Graduated from Faculty of Computer Science And Information Technology Tanta University.
 - 💡  Passionate about discovering new technologies and creating innovative software solutions and quick hacks.
-- ⚒  Just can use the right tool for the job and not vice versa.
+- 🔍  Just can use the right tool for the job and not vice versa.
 
 ## 🔮 Tech Stack & Skills
 
